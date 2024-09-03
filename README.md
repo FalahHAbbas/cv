@@ -8,6 +8,14 @@ Baghdad, Iraq
 
 ---
 
+### ABOUT ME
+
+A highly accomplished Senior Software Developer with 9+ years of experience architecting robust backend systems and
+crafting intuitive mobile applications. Proficient in Java, C#, and diverse modern frameworks, I consistently deliver
+high-quality solutions. My proven leadership abilities empower me to effectively manage teams, guide projects to
+successful completion, and foster a collaborative environment. I thrive on leveraging my adaptable skill set to tackle
+complex challenges and drive innovation.
+
 ### EXPERIENCE
 
 **Digital Logic** — Senior Software Developer & Technical Lead  
@@ -78,7 +86,7 @@ Baghdad, Iraq
 
 - Trainee as an Android native developer with Java.
 
-**Lots free-lance projects and part time remote jobs.** 
+**Lots free-lance projects and part time remote jobs.**
 
 
 ---
