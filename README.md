@@ -99,8 +99,6 @@ complex challenges and drive innovation.
 **Fikra Space, Baghdad, Iraq**  
 *JavaScript Bootcamp, 2018*
 
-Here's the updated Skills section with Audio/Video streaming included as a note under Web & Backend Development:
-
 ---
 
 ### SKILLS
