@@ -157,7 +157,7 @@ Here's the updated Skills section with Audio/Video streaming included as a note 
 ### LINKS
 
 - **GitHub:** [FalahHAbbas](https://github.com/FalahHAbbas)
-- **Stack Overflow:** [Falah-H-Abbas](https://stackoverflow.com/users/...)
-- **LinkedIn:** [Falah H. Abbas](https://www.linkedin.com/in/falah-h-abbas)
+- **Stack Overflow:** [Falah-H-Abbas](https://stackoverflow.com/users/6717707/falah-h-abbas)
+- **LinkedIn:** [Falah H. Abbas](hhttps://github.com/FalahHAbbas/cv)
 
 ---
