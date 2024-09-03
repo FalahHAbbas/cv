@@ -146,8 +146,6 @@ Here's the updated Skills section with Audio/Video streaming included as a note 
 
 ---
 
-Let me know if this fits well or if there are any more adjustments needed!
-
 ### LINKS
 
 - **GitHub:** [FalahHAbbas](https://github.com/FalahHAbbas)
