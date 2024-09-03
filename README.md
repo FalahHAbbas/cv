@@ -158,6 +158,6 @@ Here's the updated Skills section with Audio/Video streaming included as a note 
 
 - **GitHub:** [FalahHAbbas](https://github.com/FalahHAbbas)
 - **Stack Overflow:** [Falah H.Abbas](https://stackoverflow.com/users/6717707/falah-h-abbas)
-- **LinkedIn:** [Falah H. Abbas](https://www.linkedin.com/in/falah-h-abbas-234375ab)
+- **LinkedIn:** [Falah H. Abbas](https://www.linkedin.com/in/falah-h-abbas-234375ab/)
 
 ---
