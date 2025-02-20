@@ -1,161 +1,169 @@
 
 ---
 
-**Falah H. Abbas**  
-**Senior Software Developer**  
-Baghdad, Iraq  
+**Falah H. Abbas**
+
+**Senior Software Developer**
+
+Baghdad, Iraq
+
 +964-781-496-8474 | falahh.Abbas@gmail.com
 
 ---
 
-### ABOUT ME
+### **ABOUT ME**
 
-A highly accomplished Senior Software Developer with 9+ years of experience architecting robust backend systems and
-crafting intuitive mobile applications. Proficient in Java, C#, and diverse modern frameworks, I consistently deliver
-high-quality solutions. My proven leadership abilities empower me to effectively manage teams, guide projects to
-successful completion, and foster a collaborative environment. I thrive on leveraging my adaptable skill set to tackle
-complex challenges and drive innovation.
+&nbsp; &nbsp; A highly accomplished Senior Software Developer with 9+ years of experience architecting robust backend systems and crafting intuitive mobile applications. Proficient in Java, C#, and diverse modern frameworks, I consistently deliver high-quality solutions. My proven leadership abilities empower me to effectively manage teams, guide projects to successful completion, and foster a collaborative environment. I thrive on leveraging my adaptable skill set to tackle complex challenges and drive innovation.
 
-### EXPERIENCE
+---
 
-**Digital Logic** — Senior Software Developer & Technical Lead  
-*Mar 2023 - Present*
+### **EXPERIENCE**
 
-- Supervised teams, specified work stacks, and environments.
-- Hired and trained new developers.
-- Developed Backend APIs.
+**Digital Logic** — **Senior Software Developer & Technical Lead**  *(Mar 2023 - Present)*
 
-**Creative Advanced Technologies** — Senior Software Developer  
-*Feb 2023 - Jun 2023*
+*   Supervised teams, specified work stacks, and environments.
+*   Hired and trained new developers.
+*   Developed Backend APIs.
 
-- Developed and tested Backend APIs and Microservices.  
-  **Achievements:**
+**Achievements:**
 
-1. Social Media Project
-2. Jira - ERB Integration
+1.  TheMallHub Backend (Spring Boot - Java)
+2.  Bexy(Baghdad Exchange Yard) Backend (Asp.Net Core - C#)
+3.  Bexy(Baghdad Exchange Yard) Hardware Integration (Raspberry Pi, Java,Python,C#)
+4.  Bexy(Baghdad Exchange Yard) Mobile App (Android - Java)
+5.  T.N.C Authenticator Backend (Spring Boot - Java)
+6.  T.N.C Authenticator Mobile App (Flutter - Dart)
+7.  *(Empty line kept as in original CV)*
 
-**Obr Taxi** — Technical Lead  
-*Jun 2022 - Dec 2022*
+**Creative Advanced Technologies** — **Senior Software Developer**  *(Feb 2023 - Jun 2023)*
 
-- Supervised outsourced teams, hired and trained developers.
-- Developed internal company systems.  
-  **Achievements:**
+*   Developed and tested Backend APIs and Microservices.
 
-1. Supervised Obr Taxi App
-2. Supervised Thawany Tag App
-3. Developed Obr Agent Backend (ASP.NET Core - C#)
-4. Developed Obr Agent Desktop App (Flutter - Dart)
-5. Developed Obr Taxi POS App (Android - Java)
+**Achievements:**
 
-**SuperCell Network** — Senior Software Developer  
-*Apr 2021 - Dec 2022*
+1.  Social Media Project
+2.  Jira - ERB Integration
 
-- Developed Backend APIs for ISP services and internal systems.  
-  **Achievements:**
+**Obr Taxi** — **Technical Lead**  *(Jun 2022 - Dec 2022)*
 
-1. Cinema System Backend (ASP.NET Core - C#)
-2. Share System Backend (ASP.NET Core - C#)
-3. Ticket System Backend (ASP.NET Core - C#)
-4. Ticket System App (Flutter - Dart)
-5. Biometric Fingerprint Scanner Integration for Android (Java)
+*   Supervised outsourced teams, hired and trained developers.
+*   Developed internal company systems.
 
-**Enjaz LLC and QiCard** — Senior Software Developer  
-*Feb 2019 - Aug 2021*
+**Achievements:**
 
-- Developed government-based solutions.  
-  **Achievements:**
+1.  Supervised Obr Taxi App
+2.  Supervised Thawany Tag App
+3.  Developed Obr Agent Backend (ASP.NET Core - C#)
+4.  Developed Obr Agent Desktop App (Flutter - Dart)
+5.  Developed Obr Taxi POS App (Android - Java)
 
-1. Military Pensions System
-2. Birth and Death Certification for the Ministry of Health
-3. WhiteList Scoring System for Alrafidain Bank Loan Granting
+**SuperCell Network** — **Senior Software Developer**  *(Apr 2021 - Dec 2022)*
 
-**Morabaa Software Solutions** — Android Developer  
-*Aug 2017 - Nov 2018*
+*   Developed Backend APIs for ISP services and internal systems.
 
-- Developed native Android apps with Java and backend APIs with ASP.NET Core (C#).  
-  **Achievements:**
+**Achievements:**
 
-1. Multi-Vendor Market App (C# and Java)
-2. Local Services App (C# and Java)
-3. Account State App (C# and Java)
-4. Smart Home System App (Java)
-5. Smart Home System Controller (Raspberry Pi, Android Things Java, RS485)
+1.  Cinema System Backend (ASP.NET Core - C#)
+2.  Share System Backend (ASP.NET Core - C#)
+3.  Ticket System Backend (ASP.NET Core - C#)
+4.  Ticket System App (Flutter - Dart)
+5.  Biometric Fingerprint Scanner Integration for Android (Java)
 
-**IT-House** — Trainee  
-*Jan 2016 - Jan 2017*
+**Enjaz LLC and QiCard** — **Senior Software Developer**  *(Feb 2019 - Aug 2021)*
 
-- Trainee as an Android native developer with Java.
+*   Developed government-based solutions.
+
+**Achievements:**
+
+1.  Military Pensions System
+2.  Birth and Death Certification for the Ministry of Health
+3.  WhiteList Scoring System for Alrafidain Bank Loan Granting
+
+**Morabaa Software Solutions** — **Android Developer**  *(Aug 2017 - Nov 2018)*
+
+*   Developed native Android apps with Java and backend APIs with ASP.NET Core (C#).
+
+**Achievements:**
+
+1.  Multi-Vendor Market App (C# and Java)
+2.  Local Services App (C# and Java)
+3.  Account State App (C# and Java)
+4.  Smart Home System App (Java)
+5.  Smart Home System Controller (Raspberry Pi, Android Things Java, RS485)
+
+**IT-House** — **Trainee**  *(Jan 2016 - Jan 2017)*
+
+*   Trainee as an Android native developer with Java.
 
 **Lots free-lance projects and part time remote jobs.**
 
+---
+
+### **EDUCATION**
+
+**University of Kufa, Najaf, Iraq**  *(2013 - 2017)*
+
+*   BCS in Computer Science
+
+**Fikra Space, Baghdad, Iraq**  *(2018)*
+
+*   JavaScript Bootcamp
 
 ---
 
-### EDUCATION
-
-**University of Kufa, Najaf, Iraq**  
-*BCS in Computer Science, 2013 - 2017*
-
-**Fikra Space, Baghdad, Iraq**  
-*JavaScript Bootcamp, 2018*
-
----
-
-### SKILLS
+### **SKILLS**
 
 **Programming Languages:**
 
-- **Java:** Expertise in building robust applications using Spring Framework, JavaFX, Vaadin, and Android.
-- **C#:** Proficient in developing applications with ASP.NET Core, Windows Forms, WPF, Xamarin, and Blazor.
-- **Dart, Kotlin, Rust, Golang, Python:** Used occasionally when needed for specific projects or requirements.
+*   **Java:** Expertise in building robust applications using Spring Framework, JavaFX, Vaadin, and Android.
+*   **C#:** Proficient in developing applications with ASP.NET Core, Windows Forms, WPF, Xamarin, and Blazor.
+*   **Dart, Kotlin, Rust, Golang, Python:** Used occasionally when needed for specific projects or requirements.
 
 **Web & Backend Development:**
 
-- **ASP.NET Core & C#:** Skilled in creating scalable backend services and APIs.
-- **Spring Framework & Micronaut:** Experienced in developing microservices and enterprise-level applications.
-- **Golang & gRPC (Gin Framework):** Familiar with building backend services; used occasionally for specific projects.
-- *(Note: Some experience with Audio/Video streaming using MRTP and related protocols.)*
+*   **ASP.NET Core & C#:** Skilled in creating scalable backend services and APIs.
+*   **Spring Framework & Micronaut:** Experienced in developing microservices and enterprise-level applications.
+*   **Golang & gRPC (Gin Framework):** Familiar with building backend services; used occasionally for specific projects.
+*   *(Note: Some experience with Audio/Video streaming using MRTP and related protocols.)*
 
 **Mobile Development:**
 
-- **Android (Java) & Flutter (Dart):** Extensive experience in building native Android apps and cross-platform apps
-  using Flutter.
+*   **Android (Java) & Flutter (Dart):** Extensive experience in building native Android apps and cross-platform apps using Flutter.
 
 **Hardware & Embedded Systems:**
 
-- **Raspberry Pi & Integrated Devices:** Experience in developing embedded systems and integrating devices like Gates,
-  Weigh Bridges, NARP cameras, and more.
+*   **Raspberry Pi & Integrated Devices:** Experience in developing embedded systems and integrating devices like Gates, Weigh Bridges, NARP cameras, and more.
 
 **IoT & System Integration:**
 
-- Specialized in connecting embedded hardware with backend systems, enhancing automation and control capabilities.
+*   Specialized in connecting embedded hardware with backend systems, enhancing automation and control capabilities.
 
 **Cloud & DevOps:**
 
-- **AWS & Azure:** Proficient in deploying, managing, and scaling applications on cloud platforms.
-- **Docker:** Experienced in containerizing applications for consistent and scalable deployments.
+*   **AWS & Azure:** Proficient in deploying, managing, and scaling applications on cloud platforms.
+*   **Docker:** Experienced in containerizing applications for consistent and scalable deployments.
 
 **Methodologies & Tools:**
 
-- **Agile Methodology:** Strong background in Agile project management, including Scrum and Kanban.
-- **Version Control:** Expertise with Git and other version control systems for collaborative development.
+*   **Agile Methodology:** Strong background in Agile project management, including Scrum and Kanban.
+*   **Version Control:** Expertise with Git and other version control systems for collaborative development.
 
 **Project Management & Leadership:**
 
-- **Team Leadership:** Proven ability to lead teams, mentor developers, and manage project timelines.
-- **Technical Supervision:** Skilled in overseeing technical implementations and ensuring code quality.
+*   **Team Leadership:** Proven ability to lead teams, mentor developers, and manage project timelines.
+*   **Technical Supervision:** Skilled in overseeing technical implementations and ensuring code quality.
 
 **Soft Skills:**
 
-- **Problem-Solving:** Excellent analytical skills with a focus on efficient solutions.
-- **Communication:** Strong communicator, adept at working with cross-functional teams and stakeholders.
+*   **Problem-Solving:** Excellent analytical skills with a focus on efficient solutions.
+*   **Communication:** Strong communicator, adept at working with cross-functional teams and stakeholders.
 
 ---
 
-### LINKS
+### **LINKS**
 
-- **GitHub:** [FalahHAbbas](https://github.com/FalahHAbbas)
-- **Stack Overflow:** [Falah H.Abbas](https://stackoverflow.com/users/6717707/falah-h-abbas)
-- **LinkedIn:** [Falah H. Abbas](https://www.linkedin.com/in/falah-h-abbas-234375ab/)
+*   **GitHub:** [FalahHAbbas](https://github.com/FalahHAbbas)
+*   **Stack Overflow:** [Falah H.Abbas](https://stackoverflow.com/users/6717707/falah-h-abbas)
+*   **LinkedIn:** [Falah H. Abbas](https://www.linkedin.com/in/falah-h-abbas-234375ab/)
 
 ---
