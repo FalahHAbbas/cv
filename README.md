@@ -13,13 +13,13 @@ Baghdad, Iraq
 
 ### **ABOUT ME**
 
-&nbsp; &nbsp; A highly accomplished Senior Software Developer with 9+ years of experience architecting robust backend systems and crafting intuitive mobile applications. Proficient in Java, C#, and diverse modern frameworks, I consistently deliver high-quality solutions. My proven leadership abilities empower me to effectively manage teams, guide projects to successful completion, and foster a collaborative environment. I thrive on leveraging my adaptable skill set to tackle complex challenges and drive innovation.
+&nbsp; &nbsp; A highly successful Senior Software Developer with 9+ years of experience architecting robust backend systems and crafting intuitive mobile applications. Proficient in Java, C#, and diverse modern frameworks, I consistently deliver high-quality solutions. My proven leadership abilities empower me to effectively manage teams, guide projects to successful completion, and foster a collaborative environment. I thrive on leveraging my adaptable skill set to tackle complex challenges and drive innovation.
 
 ---
 
 ### **EXPERIENCE**
 
-**Digital Logic** — **Senior Software Developer & Technical Lead**  *(Mar 2023 - Present)*
+**Digital Logic** — **Senior Software Developer & Technical Lead** *(Mar 2023—Present)*
 
 *   Supervised teams, specified work stacks, and environments.
 *   Hired and trained new developers.
@@ -27,15 +27,14 @@ Baghdad, Iraq
 
 **Achievements:**
 
-1.  TheMallHub Backend (Spring Boot - Java)
+1.  Elixir Backend (Spring Boot - Java)
 2.  Bexy(Baghdad Exchange Yard) Backend (Asp.Net Core - C#)
-3.  Bexy(Baghdad Exchange Yard) Hardware Integration (Raspberry Pi, Java,Python,C#)
+3.  Bexy(Baghdad Exchange Yard) Hardware Integration (Raspberry Pi, Java, Python, C#)
 4.  Bexy(Baghdad Exchange Yard) Mobile App (Android - Java)
-5.  T.N.C Authenticator Backend (Spring Boot - Java)
+5.  T.N.C Authenticator Backend (Spring Boot—Java)
 6.  T.N.C Authenticator Mobile App (Flutter - Dart)
-7.  *(Empty line kept as in original CV)*
 
-**Creative Advanced Technologies** — **Senior Software Developer**  *(Feb 2023 - Jun 2023)*
+**Creative Advanced Technologies** — **Senior Software Developer** *(Feb 2023—Jun 2023)*
 
 *   Developed and tested Backend APIs and Microservices.
 
@@ -44,7 +43,7 @@ Baghdad, Iraq
 1.  Social Media Project
 2.  Jira - ERB Integration
 
-**Obr Taxi** — **Technical Lead**  *(Jun 2022 - Dec 2022)*
+**Obr Taxi** — **Technical Lead** *(Jun 2022—Dec 2022)*
 
 *   Supervised outsourced teams, hired and trained developers.
 *   Developed internal company systems.
@@ -57,7 +56,7 @@ Baghdad, Iraq
 4.  Developed Obr Agent Desktop App (Flutter - Dart)
 5.  Developed Obr Taxi POS App (Android - Java)
 
-**SuperCell Network** — **Senior Software Developer**  *(Apr 2021 - Dec 2022)*
+**SuperCell Network** — **Senior Software Developer** *(Apr 2021—Dec 2022)*
 
 *   Developed Backend APIs for ISP services and internal systems.
 
@@ -79,7 +78,7 @@ Baghdad, Iraq
 2.  Birth and Death Certification for the Ministry of Health
 3.  WhiteList Scoring System for Alrafidain Bank Loan Granting
 
-**Morabaa Software Solutions** — **Android Developer**  *(Aug 2017 - Nov 2018)*
+**Morabaa Software Solutions** — **Android Developer** *(Aug 2017—Nov 2018)*
 
 *   Developed native Android apps with Java and backend APIs with ASP.NET Core (C#).
 
@@ -95,13 +94,13 @@ Baghdad, Iraq
 
 *   Trainee as an Android native developer with Java.
 
-**Lots free-lance projects and part time remote jobs.**
+**Lots of free-lance projects and part-time remote jobs.**
 
 ---
 
 ### **EDUCATION**
 
-**University of Kufa, Najaf, Iraq**  *(2013 - 2017)*
+**University of Kufa, Najaf, Iraq** *(2013–2017)*
 
 *   BCS in Computer Science
 
@@ -132,7 +131,7 @@ Baghdad, Iraq
 
 **Hardware & Embedded Systems:**
 
-*   **Raspberry Pi & Integrated Devices:** Experience in developing embedded systems and integrating devices like Gates, Weigh Bridges, NARP cameras, and more.
+*   **Raspberry Pi & Integrated Devices:** Experience in developing embedded systems and integrating devices like Gates, Weigh Bridges, ANPR cameras, and more.
 
 **IoT & System Integration:**
 
@@ -162,8 +161,8 @@ Baghdad, Iraq
 
 ### **LINKS**
 
-*   **GitHub:** [FalahHAbbas](https://github.com/FalahHAbbas)
-*   **Stack Overflow:** [Falah H.Abbas](https://stackoverflow.com/users/6717707/falah-h-abbas)
-*   **LinkedIn:** [Falah H. Abbas](https://www.linkedin.com/in/falah-h-abbas-234375ab/)
+*   ***GitHub:*** [FalahHAbbas](https://github.com/FalahHAbbas)
+*   ***Stack Overflow:*** [Falah H.Abbas](https://stackoverflow.com/users/6717707/falah-h-abbas)
+*   ***LinkedIn:*** [Falah H. Abbas](https://www.linkedin.com/in/falah-h-abbas-234375ab/)
 
 ---
